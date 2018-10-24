@@ -40,7 +40,7 @@ start ngrp_core
 
 License
 
-ngrp_core - Custom Damage System for FiveM
+ngrp_core - Core functions for FiveM RP Servers
 
 Copyright (C) 2018
 
